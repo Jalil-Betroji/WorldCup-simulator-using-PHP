@@ -1,0 +1,53 @@
+.size{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.score{
+    padding: .3rem;
+    background-color: #000000;
+}
+input{
+    max-width: 6rem;
+}
+section{
+    margin-top: 1rem;
+    border-radius: 10px;
+    background-color: #e0e0e0;
+}
+.color{
+    background-color: #999999;
+    height: 1.7rem;
+    gap: 4rem;
+    border-top: 2px solid rgb(158, 18, 53);
+    /* border-radius: 5px; */
+}
+.BC{
+    background-color: #e4e2e4;
+}
+.UBC{
+    background-color: purple;
+    text-align: center;
+    width: 8rem;
+    height: 1.6rem;
+}
+.table{
+    background-color: rgb(131, 10, 66);
+    text-align: center;
+    
+}
+tbody tr td{
+    border: 1px solid #b91748;
+    color: white;
+    font-weight: 500;
+}
+.table tbody tr th{
+    background-color: #b91748;
+}
+.first-td{
+    color: #e4bb33;
+    font-weight: 700;
+}
+.last-td{
+    color: #ecc74b;
+    font-weight: 700;
+}
